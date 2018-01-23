@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GeneralOptions xmlns="urn:schemas-nliteos-com:pn.v1">
+	<LicenseKey>NULL0-NULL1-NULL2-NULL3-NULL4</LicenseKey>
+	<SkipProUpgrade>true</SkipProUpgrade>
+	<CheckUpdate>false</CheckUpdate>
+</GeneralOptions>
